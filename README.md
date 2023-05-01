@@ -5,6 +5,8 @@ There are 3 files each with a seperate method, to run this code you need to down
 
 [link](https://www.vicos.si/resources/kolektorsdd2/)
 
+It comes from this paper <a href="http://prints.vicos.si/publications/385">Mixed supervision for surface-defect detection: from weakly to fully supervised learning</a>
+
 Put the train and test folders under DefectData
 
 The mask rcnn code was inspired from this link. If problems arise, follow [this](https://www.kaggle.com/code/ashishsingh226/pedestrian-instance-segmentation-using-maskrcnn)
