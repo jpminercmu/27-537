@@ -6,6 +6,7 @@ There are 3 files each with a seperate method, to run this code you need to down
 [link](https://www.vicos.si/resources/kolektorsdd2/)
 
 It comes from this paper <a href="http://prints.vicos.si/publications/385">Mixed supervision for surface-defect detection: from weakly to fully supervised learning</a>
+Jakob Boziv, , Domen Tabernik, and Danĳel Skovaj. "Mixed supervision for surface-defect detection: from weakly to fully supervised learning." . (2021).
 
 Put the train and test folders under DefectData
 
